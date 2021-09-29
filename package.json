@@ -14,7 +14,7 @@
     "gatsby-plugin-manifest": "^2.0.2",
     "gatsby-plugin-offline": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.0.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "lodash": "^4.17.13",
     "moment": "^2.24.0",
     "query-string": "^6.3.0",
