@@ -16,7 +16,7 @@
     "gatsby-plugin-react-helmet": "^3.0.0",
     "i": "^0.3.6",
     "lodash": "^4.17.13",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "query-string": "^6.3.0",
     "random-item": "^1.0.0",
     "react": "^16.8.0",
