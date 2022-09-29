@@ -31,7 +31,7 @@
     "react-tooltip": "^3.9.2",
     "react-use-localstorage": "^3.0.1-alpha.0",
     "react-youtube": "^7.9.0",
-    "recharts": "^1.5.0"
+    "recharts": "^2.1.14"
   },
   "keywords": [
     "stocknp"
